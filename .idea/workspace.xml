@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf88c884-6f5e-4cb7-84c9-46eed6d654a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chrome-extension/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/chrome-extension/content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chrome-extension/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/chrome-extension/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chrome-extension/popup.html" beforeDir="false" afterPath="$PROJECT_DIR$/chrome-extension/popup.html" afterDir="false" />
-    </list>
+    <list default="true" id="cf88c884-6f5e-4cb7-84c9-46eed6d654a4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +54,7 @@
       <updated>1687381070420</updated>
       <workItem from="1687381072700" duration="69000" />
       <workItem from="1687381155316" duration="140000" />
-      <workItem from="1687381305286" duration="1505000" />
+      <workItem from="1687381305286" duration="1911000" />
     </task>
     <servers />
   </component>
