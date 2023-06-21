@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chrome-extension">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chrome-extension/chrome-extension.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
